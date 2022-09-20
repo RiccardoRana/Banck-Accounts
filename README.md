@@ -14,6 +14,10 @@ TECHNOLOGIES USED:
    
 <img width="1440" alt="Schermata 2022-09-20 alle 2 48 38 PM" src="https://user-images.githubusercontent.com/88197051/191262545-3a3a5ada-c95c-4d9f-81b5-9ca38c589523.png">
 
+Getting Started
+
+Just open index.html with your browser and enjoy my bank style app. You can open the folders and see how i wrote the code, you could even open it with Liveserver VSC's extension.
+
 
 
 
